@@ -5,8 +5,8 @@
 ### I'm an Undergraduate and a Web Developer from Singapore!
 
 - 👨🏻‍🎓 Currently an undergraduate taking the BEng (Hons) in Information and Communications Technology (Software Engineering).
-- 🇸🇬 Singaporean, with a strong passion for web development.
-- 👨🏻‍💻I was a .NET Developer who is responsible for creating backend functionalities for web solutions.
+- ✅ Highly motivated learner with a strong passion for web development.
+- 👨🏻‍💻 I was a .NET Developer who is responsible for creating backend functionalities for web solutions.
 - 💻 I self-learnt the MERN stack and I hope to work towards becoming a full-stack developer in the future.
 - ⚡ Fun fact: I love to sing
 
