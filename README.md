@@ -8,7 +8,6 @@
 - 🇸🇬 Singaporean, with a strong passion for web development.
 - 👨🏻‍💻I was a .NET Developer who is responsible for creating backend functionalities for web solutions.
 - 💻 I self-learnt the MERN stack and I hope to work towards becoming a full-stack developer in the future.
-- 💪🏻 Team player, Great time management, Fast learner.
 - ⚡ Fun fact: I love to sing
 
 ### Connect with me:
