@@ -37,11 +37,13 @@
 
 ---
 
-<img height="160" alt="hanyi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hanyi97&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars,issues" />
+<img align="left" height="160" width="450" alt="hanyi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hanyi97&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars,issues" />
+
+<img height="160" width="288" alt="hanyi's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyi97&hide_border=true&theme=tokyonight&layout=compact" />
+
+<br/>
 
 <img height="160" alt="hanyi's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=hanyi97&theme=tokyonight&hide_border=true" />
-
-<img height="160" alt="hanyi's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyi97&hide_border=true&theme=tokyonight&layout=compact" />
 
 [website]: https://nghanyi.com
 [linkedin]: https://linkedin.com/in/nghanyi
