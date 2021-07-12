@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=nghanyi.com&style=for-the-badge&url=https%3A%2F%2Fnghanyi.com)](https://nghanyi.com)
 
-### I'm an Undergraduate and a Web Developer from Singapore!
+### I'm a Software Engineering student and a Web Developer from Singapore!
 
-- 👨🏻‍🎓 Currently an undergraduate taking the BEng (Hons) in Information and Communications Technology, majoring in Software Engineering.
-- ✅ Highly motivated learner with a strong passion for web development.
+- 👨🏻‍🎓 I am currently an undergraduate taking the BEng (Hons) in Information and Communications Technology, majoring in Software Engineering.
+- ✅ I am a highly motivated learner with a strong passion for web development.
 - 👨🏻‍💻 I was a .NET Developer who is responsible for creating backend functionalities for web solutions.
 - 💻 I self-learnt the MERN stack and I hope to work towards becoming a full-stack developer in the future.
 - ⚡ Fun fact: I love to sing
