@@ -4,9 +4,9 @@
 
 ### I'm a Software Engineering student and a Web Developer from Singapore!
 
-:student:  I am currently an undergraduate taking the BEng (Hons) in Information and Communications Technology, majoring in Software Engineering.
-:white_check_mark:  I am a highly motivated learner with a strong passion for web development.
-:technologist:  I was a .NET Developer who is responsible for creating backend functionalities for web solutions.
+:student:  I am currently an undergraduate taking the BEng (Hons) in Information and Communications Technology, majoring in Software Engineering.  
+:white_check_mark:  I am a highly motivated learner with a strong passion for web development.  
+:technologist:  I was a .NET Developer who is responsible for creating backend functionalities for web solutions.  
 :computer:  I self-learnt the MERN stack and I hope to work towards becoming a full-stack developer in the future.
 
 ### Connect with me:
