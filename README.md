@@ -1,7 +1,8 @@
 ### Hi there, I'm [Han Yi][website]! 👋
 
-[![Website](https://img.shields.io/website?label=nghanyi.com&style=for-the-badge&url=https%3A%2F%2Fnghanyi.com)](https://nghanyi.com)
+[![Website](https://img.shields.io/website?label=nghanyi.com&style=for-the-badge&url=https%3A%2F%2Fnghanyi.com)][website] 
 
+---
 ### I'm a Software Engineering student and a Web Developer from Singapore!
 
 - I am currently an undergraduate taking the BEng (Hons) in Information and Communications Technology, majoring in Software Engineering. :student:  
