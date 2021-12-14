@@ -1,4 +1,7 @@
-# Hi there, I'm [Han Yi][website]! 
+# Hi there, I'm [Han Yi][website]! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+[![Website](https://img.shields.io/website?label=nghanyi.com&style=for-the-badge&url=https%3A%2F%2Fnghanyi.com)][website] 
 
 ### I'm a Software Engineering student and a Web Developer from Singapore!
 
