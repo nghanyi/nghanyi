@@ -8,7 +8,7 @@
 - I am currently an undergraduate taking the BEng (Hons) in Information and Communications Technology, majoring in Software Engineering. :student:  
 - I am a highly motivated learner with a strong passion for web development. :white_check_mark:   
 - I was a .NET Developer who is responsible for creating backend functionalities for web solutions. :technologist: 
- - I self-learnt the MERN stack and I hope to work towards becoming a full-stack developer in the future. :computer:
+- I self-learnt the MERN stack and I hope to work towards becoming a full-stack developer in the future. :computer:
 
 ### Connect with me:
 
