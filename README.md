@@ -39,5 +39,5 @@
 
 <img height="160" alt="hanyi's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=hanyi97&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-[website]: https://nghanyi.com
+[website]: https://www.nghanyi.com
 [linkedin]: https://linkedin.com/in/nghanyi
