@@ -95,13 +95,13 @@
 
 ---
 
-<img align="left" height="160" width="450" alt="hanyi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hanyi97&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars,issues" />
+<img align="left" height="160" width="450" alt="hanyi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nghanyi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars,issues" />
 
-<img height="160" width="288" alt="hanyi's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyi97&hide_border=true&theme=tokyonight&layout=compact" />
+<img height="160" width="288" alt="hanyi's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghanyi&hide_border=true&theme=tokyonight&layout=compact" />
 
 <br/>
 
-<img height="160" alt="hanyi's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=hanyi97&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img height="160" alt="hanyi's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=nghanyi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 [website]: https://www.nghanyi.com
 [linkedin]: https://linkedin.com/in/nghanyi
