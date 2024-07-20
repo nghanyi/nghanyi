@@ -3,12 +3,11 @@
 
 [![Website](https://img.shields.io/website?label=nghanyi.com&style=for-the-badge&url=https%3A%2F%2Fnghanyi.com)][website] 
 
-### I'm a Developer from Singapore!
+### I'm a Fullstack Software Engineer from Singapore!
 
-- I am currently an undergraduate taking the BEng (Hons) in Information and Communications Technology, majoring in Software Engineering. :student:  
-- I am a highly motivated learner with a strong passion for web development. :white_check_mark:   
-- I love exploring new programming languages and frameworks. :technologist: 
-- I self-learnt the MERN stack and I hope to work towards becoming a full-stack developer in the future. :computer:
+- Graduated with a degree in BEng (Hons) in Information and Communications Technology (Software Engineering). :student:  
+- Specialising in Backend development, I thrive on embracing emerging technologies. :technologist: 
+-  Self-learnt the MERN stack and actively working towards becoming a versatile full-stack developer. :computer:
 
 ### Connect with me:
 
@@ -20,6 +19,7 @@
 
 ### 👨🏻‍💻 Programming Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,7 +35,6 @@
 
 ### 💻 Framework and Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -53,6 +52,7 @@
 
 ### ☁️ Cloud Services
 <p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
