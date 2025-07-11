@@ -7,7 +7,7 @@
 
 - Graduated with a degree in BEng (Hons) in Information and Communications Technology (Software Engineering). :student:  
 - Specialising in Backend development, I thrive on embracing emerging technologies. :technologist: 
--  Self-learnt the MERN stack and actively working towards becoming a versatile full-stack developer. :computer:
+- Self-learnt the MERN stack and actively working towards becoming a versatile full-stack developer. :computer:
 
 ### Connect with me:
 
