@@ -72,34 +72,10 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### ⚙️ IDE & Editors
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
-
-### 🔨 Productivity Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-
-### 🦾 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
 <br />  
 
 ---
 
-<img align="left" height="160" width="450" alt="hanyi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nghanyi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars,issues" />
-
-<img height="160" width="288" alt="hanyi's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghanyi&hide_border=true&theme=tokyonight&layout=compact" />
-
-<br/>
 
 <img height="160" alt="hanyi's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=nghanyi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
